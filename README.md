@@ -20,23 +20,37 @@ After running this command, the web app will open in your browser! 🎉
 
 🖼️ Usage Guide
 1️⃣ Single Image Captioning
+
 Upload an image.
+
 Choose a caption tone (Formal, Casual, Educational).
+
 Click "Generate Caption" to get a description.
+
 2️⃣ Batch Image Captioning
 Upload multiple images at once.
+
 Select the caption tone.
+
 Click "Process All Images" to generate captions for all images.
+
 Download the captions as a .txt file.
+
 ⚡ Tech Stack
 Python 🐍
+
 Hugging Face Transformers 🤗
+
 BLIP Model (Bootstrapping Language-Image Pretraining) 🖼️
+
 Streamlit (Web UI)
+
 Torch & PIL (Image Processing)
+
 🌎 Demo & Deployment
 Run Locally (streamlit run app.py)
 Deploy on Streamlit Cloud (Guide coming soon)
+
 🤝 Contributing
 Pull requests are welcome! If you’d like to contribute, please fork the repo and submit a PR.
 
